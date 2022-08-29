@@ -1,5 +1,15 @@
 # Genshin Audio Extractor
 
+## Prerequisites (macOS)
+
+Before running the script, install the the required dependencies with:
+
+```
+brew install mpg123 jansson
+```
+
+If any errors pop up during runtime, chances are that you're missing a library not listed here
+
 ## Usage
 
 1. Extract your audio files from the Genshin Impact datafiles.
